@@ -1,2152 +1,2154 @@
-[
-  {
-    "course": "ACS1110",
-    "id": "ACS1110",
-    "category": "BS",
-    "course_name": "Applied Chemistry",
-    "date": "17-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 5
-  },
-  {
-    "course": "ACS1112",
-    "id": "ACS1112",
-    "category": "BS",
-    "course_name": "Applied Chemistry",
-    "date": "17-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 298
-  },
-  {
-    "course": "ARC1320",
-    "id": "ARC1320",
-    "category": "DC",
-    "course_name": "Construction and Materials - I",
-    "date": "17-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 25
-  },
-  {
-    "course": "CEA1120",
-    "id": "CEA1120",
-    "category": "ESA",
-    "course_name": "Strength of Materials",
-    "date": "17-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 3
-  },
-  {
-    "course": "AMS1120",
-    "id": "AMS1120",
-    "category": "BS",
-    "course_name": "Applied Mathematics-II",
-    "date": "18-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 59
-  },
-  {
-    "course": "AMS1122",
-    "id": "AMS1122",
-    "category": "BS",
-    "course_name": "Applied Mathematics-II",
-    "date": "18-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 668
-  },
-  {
-    "course": "ARC1340",
-    "id": "ARC1340",
-    "category": "DC",
-    "course_name": "Architectural Drawing-II",
-    "date": "18-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 25
-  },
-  {
-    "course": "APS1110",
-    "id": "APS1110",
-    "category": "BS",
-    "course_name": "Applied Physics",
-    "date": "19-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 10
-  },
-  {
-    "course": "APS1112",
-    "id": "APS1112",
-    "category": "BS",
-    "course_name": "Applied Physics",
-    "date": "19-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 337
-  },
-  {
-    "course": "ARC1360",
-    "id": "ARC1360",
-    "category": "DC",
-    "course_name": "Arts and Graphics",
-    "date": "19-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 25
-  },
-  {
-    "course": "ARC1620",
-    "id": "ARC1620",
-    "category": "DC",
-    "course_name": "Architecture Design - I",
-    "date": "20-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 25
-  },
-  {
-    "course": "EEA1110",
-    "id": "EEA1110",
-    "category": "ESA",
-    "course_name": "Principles of Electrical Engineering",
-    "date": "20-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 4
-  },
-  {
-    "course": "EEA1112",
-    "id": "EEA1112",
-    "category": "ESA",
-    "course_name": "Principles of Electrical Engineering",
-    "date": "20-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 296
-  },
-  {
-    "course": "EZH1110",
-    "id": "EZH1110",
-    "category": "HM",
-    "course_name": "English",
-    "date": "20-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 2
-  },
-  {
-    "course": "EZHI112",
-    "category": "HM",
-    "course_name": "English",
-    "date": "20-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 320
-  },
-  {
-    "course": "ARH1020",
-    "id": "ARH1020",
-    "category": "HM",
-    "course_name": "Man Society & Buildings",
-    "date": "21-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 24
-  },
-  {
-    "course": "ELA1110",
-    "id": "ELA1110",
-    "category": "ESA",
-    "course_name": "Principles of Electronics Engineering",
-    "date": "21-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 13
-  },
-  {
-    "course": "ELA1112",
-    "id": "ELA1112",
-    "category": "ESA",
-    "course_name": "Principles of Electronics Engineering",
-    "date": "21-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 368
-  },
-  {
-    "course": "CEA1110",
-    "id": "CEA1110",
-    "category": "AU",
-    "course_name": "Environmental Studies",
-    "date": "22-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 26
-  },
-  {
-    "course": "CEU1112",
-    "id": "CEU1112",
-    "category": "AU",
-    "course_name": "Environmental Studies",
-    "date": "22-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 280
-  },
-  {
-    "course": "MEA1120",
-    "id": "MEA1120",
-    "category": "ESA",
-    "course_name": "Engineering Mechanics",
-    "date": "22-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 12
-  },
-  {
-    "course": "MEA1122",
-    "id": "MEA1122",
-    "category": "ESA",
-    "course_name": "Engineering Mechanics",
-    "date": "22-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 355
-  },
-  {
-    "course": "MEA1110",
-    "id": "MEA1110",
-    "category": "ESA",
-    "course_name": "Engineering Thermodynamics",
-    "date": "23-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 8
-  },
-  {
-    "course": "MEA1112",
-    "id": "MEA1112",
-    "category": "ESA",
-    "course_name": "Thermal Sciences",
-    "date": "23-02-25",
-    "time": "8:30AM-9:30AM",
-    "student_count": 313
-  },
-  {
-    "course": "ACA2120",
-    "id": "ACA2120",
-    "category": "ESA",
-    "course_name": "Material Science & Engg Materials",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 2
-  },
-  {
-    "course": "AEC2220",
-    "id": "AEC2220",
-    "category": "DC",
-    "course_name": "Applied Thermodynamics & Heat Transfer",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 9
-  },
-  {
-    "course": "AEC2222",
-    "id": "AEC2222",
-    "category": "DC",
-    "course_name": "Applied Thermodynamics & Heat Transfer",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 21
-  },
-  {
-    "course": "AIC2042",
-    "id": "AIC2042",
-    "category": "PC",
-    "course_name": "Principles of Machine Learning",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 35
-  },
-  {
-    "course": "AIC2130",
-    "id": "AIC2130",
-    "category": "DC",
-    "course_name": "Statistical Learning",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 4
-  },
-  {
-    "course": "AMS2120",
-    "id": "AMS2120",
-    "category": "BS",
-    "course_name": "Mathematics-IV",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 4
-  },
-  {
-    "course": "AMS2122",
-    "id": "AMS2122",
-    "category": "BS",
-    "course_name": "Applied Mathematics-IV",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 54
-  },
-  {
-    "course": "AMS2422",
-    "id": "AMS2422",
-    "category": "BS",
-    "course_name": "Applied Numerical Methods",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 19
-  },
-  {
-    "course": "AMS2620",
-    "id": "AMS2620",
-    "category": "BS",
-    "course_name": "Numerical Analysis, Transforms and Probability",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 4
-  },
-  {
-    "course": "AMS2622",
-    "id": "AMS2622",
-    "category": "BS",
-    "course_name": "Numerical Analysis, Transforms and Probability",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 63
-  },
-  {
-    "course": "ARC2040",
-    "id": "ARC2040",
-    "category": "DC",
-    "course_name": "Pre-Modern/Western Architecture",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 23
-  },
-  {
-    "course": "CEC2130",
-    "id": "CEC2130",
-    "category": "DC",
-    "course_name": "Fluid Mechanics",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 1
-  },
-  {
-    "course": "CEH2210",
-    "id": "CEH2210",
-    "category": "HM",
-    "course_name": "Construction Management I",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 2
-  },
-  {
-    "course": "CHA2020",
-    "id": "CHA2020",
-    "category": "ESA",
-    "course_name": "Biology for Engineers",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 1
-  },
-  {
-    "course": "CHC2002",
-    "id": "CHC2002",
-    "category": "PC",
-    "course_name": "Process Instrumentation",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 30
-  },
-  {
-    "course": "CHH2130",
-    "id": "CHH2130",
-    "category": "HM",
-    "course_name": "Social, Cultural & Educational Movements of India",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 1
-  },
-  {
-    "course": "COA2602",
-    "id": "COA2602",
-    "category": "ESA",
-    "course_name": "Data Structures and Programming",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 59
-  },
-  {
-    "course": "EEA2020",
-    "id": "EEA2020",
-    "category": "ESA",
-    "course_name": "Electrical Technology",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 6
-  },
-  {
-    "course": "EEA2022",
-    "id": "EEA2022",
-    "category": "ESA",
-    "course_name": "Electrical Technology & Control",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 78
-  },
-  {
-    "course": "EEC2120",
-    "id": "EEC2120",
-    "category": "DC",
-    "course_name": "Electrical Machines II",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 20
-  },
-  {
-    "course": "EEC2122",
-    "id": "EEC2122",
-    "category": "DC",
-    "course_name": "Electrical Machines II",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 68
-  },
-  {
-    "course": "ELC2140",
-    "id": "ELC2140",
-    "category": "DC",
-    "course_name": "Electronic Circuits",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 14
-  },
-  {
-    "course": "FTC2042",
-    "id": "FTC2042",
-    "category": "PC",
-    "course_name": "Food Preservation and Processing",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 9
-  },
-  {
-    "course": "PKC2040",
-    "id": "PKC2040",
-    "category": "DC",
-    "course_name": "Separation Proc. in Hydrocarbon Industries",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 2
-  },
-  {
-    "course": "PKC2080",
-    "id": "PKC2080",
-    "category": "DC",
-    "course_name": "Alternate Fuels and Energy Resources",
-    "date": "17-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 30
-  },
-  {
-    "course": "ACS2022",
-    "id": "ACS2022",
-    "category": "BS",
-    "course_name": "Engineering Chemistry",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 2
-  },
-  {
-    "course": "ACS2110",
-    "id": "ACS2110",
-    "category": "BS",
-    "course_name": "Engineering Chemistry",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 21
-  },
-  {
-    "course": "AEC2762",
-    "id": "AEC2762",
-    "category": "DC",
-    "course_name": "Additive Manufacturing",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 6
-  },
-  {
-    "course": "AIC2140",
-    "id": "AIC2140",
-    "category": "DC",
-    "course_name": "Design & Analysis of Algorithm",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 35
-  },
-  {
-    "course": "AIC2142",
-    "id": "AIC2142",
-    "category": "DC",
-    "course_name": "Design & Analysis of Algorithm",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 23
-  },
-  {
-    "course": "ARC2060",
-    "id": "ARC2060",
-    "category": "DC",
-    "course_name": "Building Services-II (Electrical, Illumination and Acoustics)",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 55
-  },
-  {
-    "course": "CEA2162",
-    "id": "CEA2162",
-    "category": "ESA",
-    "course_name": "Environmental Engineering",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 12
-  },
-  {
-    "course": "CEC2170",
-    "id": "CEC2170",
-    "category": "DC",
-    "course_name": "Environmental Engineering I",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 11
-  },
-  {
-    "course": "COC2140",
-    "id": "COC2140",
-    "category": "DC",
-    "course_name": "Design & Analysis of Algorithm",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 63
-  },
-  {
-    "course": "COC2142",
-    "id": "COC2142",
-    "category": "DC",
-    "course_name": "Design & Analysis of Algorithm",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 3
-  },
-  {
-    "course": "EEA2010",
-    "id": "EEA2010",
-    "category": "ESA",
-    "course_name": "Electrical Engineering",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 59
-  },
-  {
-    "course": "EEA2012",
-    "id": "EEA2012",
-    "category": "ESA",
-    "course_name": "Electrical Engineering",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 21
-  },
-  {
-    "course": "EEC2210",
-    "id": "EEC2210",
-    "category": "PC",
-    "course_name": "Power Electronics-I",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 68
-  },
-  {
-    "course": "EEC2212",
-    "id": "EEC2212",
-    "category": "PC",
-    "course_name": "Power Electronics-I",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 9
-  },
-  {
-    "course": "FTC2082",
-    "id": "FTC2082",
-    "category": "PC",
-    "course_name": "Bakery and Confectionery Technology",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 14
-  },
-  {
-    "course": "MEC2130",
-    "id": "MEC2130",
-    "category": "DC",
-    "course_name": "Machine Design I",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 78
-  },
-  {
-    "course": "MEC2132",
-    "id": "MEC2132",
-    "category": "DC",
-    "course_name": "Machine Design I",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 1
-  },
-  {
-    "course": "PKC2070",
-    "id": "PKC2070",
-    "category": "PC",
-    "course_name": "Reaction Kinetics and Reactor Design",
-    "date": "18-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 19
-  },
-  {
-    "course": "PKC2242",
-    "id": "PKC2242",
-    "category": "PC",
-    "course_name": "Reaction Kinetics and Reactor Design",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 21
-  },
-  {
-    "course": "AEC2450",
-    "id": "AEC2450",
-    "category": "DC",
-    "course_name": "Vehicle Body Design",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 35
-  },
-  {
-    "course": "AEC2452",
-    "id": "AEC2452",
-    "category": "DC",
-    "course_name": "Vehicle Body Design",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 4
-  },
-  {
-    "course": "AIC2152",
-    "id": "AIC2152",
-    "category": "DC",
-    "course_name": "AI Tools & Techniques",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 24
-  },
-  {
-    "course": "ARC2380",
-    "id": "ARC2380",
-    "category": "DC",
-    "course_name": "Construction and Materials-III",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 55
-  },
-  {
-    "course": "CEC2132",
-    "id": "CEC2132",
-    "category": "DC",
-    "course_name": "Fluid Mechanics",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 30
-  },
-  {
-    "course": "CHC2022",
-    "id": "CHC2022",
-    "category": "PC",
-    "course_name": "Chemical Reaction Engineering",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 68
-  },
-  {
-    "course": "CHC2050",
-    "id": "CHC2050",
-    "category": "DC",
-    "course_name": "Chemical Engineering Thermodynamics",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 3
-  },
-  {
-    "course": "COC2080",
-    "id": "COC2080",
-    "category": "DC",
-    "course_name": "Computer Architecture",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 63
-  },
-  {
-    "course": "COC2082",
-    "id": "COC2082",
-    "category": "DC",
-    "course_name": "Computer Architecture",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 14
-  },
-  {
-    "course": "EEC2310",
-    "id": "EEC2310",
-    "category": "DC",
-    "course_name": "Power System Engineering",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 68
-  },
-  {
-    "course": "EEC2312",
-    "id": "EEC2312",
-    "category": "DC",
-    "course_name": "Power System Engineering",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 59
-  },
-  {
-    "course": "ELA2432",
-    "id": "ELA2432",
-    "category": "ESA",
-    "course_name": "Representation and Analysis of Random Signals",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 4
-  },
-  {
-    "course": "ELC2210",
-    "id": "ELC2210",
-    "category": "DC",
-    "course_name": "Measurement and Instrumentation",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 1
-  },
-  {
-    "course": "FTC2050",
-    "id": "FTC2050",
-    "category": "DC",
-    "course_name": "Chemical Engg Thermodynamics",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 9
-  },
-  {
-    "course": "FTC2092",
-    "id": "FTC2092",
-    "category": "PC",
-    "course_name": "Food Law, Safety Standards & Regulations",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 24
-  },
-  {
-    "course": "MEC2210",
-    "id": "MEC2210",
-    "category": "PC",
-    "course_name": "Applied Thermodynamics",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 77
-  },
-  {
-    "course": "MEC2212",
-    "id": "MEC2212",
-    "category": "PC",
-    "course_name": "Applied Thermodynamics",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 3
-  },
-  {
-    "course": "PKC2020",
-    "id": "PKC2020",
-    "category": "DC",
-    "course_name": "Chemical Engineering Thermodynamics",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 19
-  },
-  {
-    "course": "PKC2222",
-    "id": "PKC2222",
-    "category": "DC",
-    "course_name": "Chemical Engineering Thermodynamics",
-    "date": "19-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 6
-  },
-  {
-    "course": "AEC2410",
-    "id": "AEC2410",
-    "category": "DC",
-    "course_name": "Manufacturing Technology",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 21
-  },
-  {
-    "course": "AEC2412",
-    "id": "AEC2412",
-    "category": "PC",
-    "course_name": "Manufacturing Technology",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 11
-  },
-  {
-    "course": "AMS2630",
-    "id": "AMS2630",
-    "category": "BS",
-    "course_name": "Discrete Structures",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 98
-  },
-  {
-    "course": "AMS2632",
-    "id": "AMS2632",
-    "category": "BS",
-    "course_name": "Discrete Structures",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 23
-  },
-  {
-    "course": "ARC2640",
-    "id": "ARC2640",
-    "category": "DC",
-    "course_name": "Architecture Design - III",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 55
-  },
-  {
-    "course": "CEC2190",
-    "id": "CEC2190",
-    "category": "DC",
-    "course_name": "Hydrology",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 3
-  },
-  {
-    "course": "CEC2192",
-    "id": "CEC2192",
-    "category": "DC",
-    "course_name": "Hydrology",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 20
-  },
-  {
-    "course": "CHC2060",
-    "id": "CHC2060",
-    "category": "DC",
-    "course_name": "Heat Transfer Operations",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 68
-  },
-  {
-    "course": "CHC2070",
-    "id": "CHC2070",
-    "category": "DC",
-    "course_name": "Numerical Methods in Chemical Engg.",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 16
-  },
-  {
-    "course": "CHC2082",
-    "id": "CHC2082",
-    "category": "PC",
-    "course_name": "Mass Transfer Operations",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 59
-  },
-  {
-    "course": "EEC2510",
-    "id": "EEC2510",
-    "category": "DC",
-    "course_name": "Electrical Measurement",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 4
-  },
-  {
-    "course": "EEC2512",
-    "id": "EEC2512",
-    "category": "DC",
-    "course_name": "Electrical Measurement",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 78
-  },
-  {
-    "course": "ELC2130",
-    "id": "ELC2130",
-    "category": "PC",
-    "course_name": "Digital Electronics",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 8
-  },
-  {
-    "course": "ELC2132",
-    "id": "ELC2132",
-    "category": "PC",
-    "course_name": "Digital Electronics",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 66
-  },
-  {
-    "course": "FTC2060",
-    "id": "FTC2060",
-    "category": "DC",
-    "course_name": "Heat Transfer Operations",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 4
-  },
-  {
-    "course": "FTC2152",
-    "id": "FTC2152",
-    "category": "PC",
-    "course_name": "Meat Poultry and Marine Product Technology",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 9
-  },
-  {
-    "course": "MEC2410",
-    "id": "MEC2410",
-    "category": "DC",
-    "course_name": "Manufacturing Technology-I",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 8
-  },
-  {
-    "course": "MEC2412",
-    "id": "MEC2412",
-    "category": "PC",
-    "course_name": "Manufacturing Technology-I",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 78
-  },
-  {
-    "course": "MEC2430",
-    "id": "MEC2430",
-    "category": "DC",
-    "course_name": "Material Science",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 2
-  },
-  {
-    "course": "PKC2262",
-    "id": "PKC2262",
-    "category": "PC",
-    "course_name": "Mass Transfer Operations",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 19
-  },
-  {
-    "course": "PKC3050",
-    "id": "PKC3050",
-    "category": "PC",
-    "course_name": "Mass Transfer Operations",
-    "date": "20-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 5
-  },
-  {
-    "course": "AMS2320",
-    "id": "AMS2320",
-    "category": "BS",
-    "course_name": "Numerical Methods & Optimization",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 8
-  },
-  {
-    "course": "AMS2322",
-    "id": "AMS2322",
-    "category": "BS",
-    "course_name": "Numerical Methods & Optimization",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 99
-  },
-  {
-    "course": "CEA2180",
-    "id": "CEA2180",
-    "category": "ESA",
-    "course_name": "Surveying",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 25
-  },
-  {
-    "course": "CEC2180",
-    "id": "CEC2180",
-    "category": "ESA",
-    "course_name": "Surveying",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 3
-  },
-  {
-    "course": "CEC2182",
-    "id": "CEC2182",
-    "category": "ESA",
-    "course_name": "Surveying",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 55
-  },
-  {
-    "course": "CHC2092",
-    "id": "CHC2092",
-    "category": "PC",
-    "course_name": "Equilibrium Stage Processes",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 30
-  },
-  {
-    "course": "COC2090",
-    "id": "COC2090",
-    "category": "DC",
-    "course_name": "Software Engineering",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 2
-  },
-  {
-    "course": "ELA2010",
-    "id": "ELA2010",
-    "category": "ESA",
-    "course_name": "Logic & Digital Circuit",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 12
-  },
-  {
-    "course": "ELA2012",
-    "id": "ELA2012",
-    "category": "ESA",
-    "course_name": "Logic & Digital Circuit",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 68
-  },
-  {
-    "course": "ELA2412",
-    "id": "ELA2412",
-    "category": "ESA",
-    "course_name": "Fundamentals of Digital Signal Processing",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 98
-  },
-  {
-    "course": "ELC2152",
-    "id": "ELC2152",
-    "category": "PC",
-    "course_name": "Analog Electronics",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 59
-  },
-  {
-    "course": "ELC2420",
-    "id": "ELC2420",
-    "category": "DC",
-    "course_name": "Principles of Communication Engineering I",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 14
-  },
-  {
-    "course": "FTC2172",
-    "id": "FTC2172",
-    "category": "PC",
-    "course_name": "Food Packaging and Storage Engineering",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 9
-  },
-  {
-    "course": "PKC2282",
-    "id": "PKC2282",
-    "category": "PC",
-    "course_name": "Introduction to Petroleum Engineering",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 19
-  },
-  {
-    "course": "PKE2510",
-    "id": "PKE2510",
-    "category": "PC",
-    "course_name": "Introduction To Petroleum Engg.",
-    "date": "21-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 3
-  },
-  {
-    "course": "CEC2200",
-    "id": "CEC2200",
-    "category": "DC",
-    "course_name": "Structural Mechanics",
-    "date": "22-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 25
-  },
-  {
-    "course": "CEC2202",
-    "id": "CEC2202",
-    "category": "DC",
-    "course_name": "Structural Mechanics",
-    "date": "22-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 55
-  },
-  {
-    "course": "EEA2042",
-    "id": "EEA2042",
-    "category": "ESA",
-    "course_name": "Automotive Electrical & Electronic System",
-    "date": "22-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 21
-  },
-  {
-    "course": "ELA2410",
-    "id": "ELA2410",
-    "category": "ESA",
-    "course_name": "Signals & Systems",
-    "date": "22-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 17
-  },
-  {
-    "course": "ELA2510",
-    "id": "ELA2510",
-    "category": "PC",
-    "course_name": "Electromagnetics",
-    "date": "22-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 21
-  },
-  {
-    "course": "ELC2512",
-    "id": "ELC2512",
-    "category": "PC",
-    "course_name": "Electromagnetics",
-    "date": "22-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 59
-  },
-  {
-    "course": "MEC2440",
-    "id": "MEC2440",
-    "category": "DC",
-    "course_name": "Manufacturing Technology-II",
-    "date": "22-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 13
-  },
-  {
-    "course": "PKH2202",
-    "id": "PKH2202",
-    "category": "HM",
-    "course_name": "Health, Safety and Environment Management",
-    "date": "22-02-25",
-    "time": "11:00AM-12:00Noon",
-    "student_count": 19
-  },
-  {
-    "course": "ACS3011",
-    "id": "ACS3011",
-    "category": "BS",
-    "course_name": "Instrumental Techniques in Food Analysis",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 9
-  },
-  {
-    "course": "AEC3120",
-    "id": "AEC3120",
-    "category": "DC",
-    "course_name": "Machinery Dynamics",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 19
-  },
-  {
-    "course": "AIC3140",
-    "id": "AIC3140",
-    "category": "DC",
-    "course_name": "Deep Learning",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 27
-  },
-  {
-    "course": "ARC3080",
-    "id": "ARC3080",
-    "category": "DC",
-    "course_name": "Town Planning",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 20
-  },
-  {
-    "course": "CEC3160",
-    "id": "CEC3160",
-    "category": "DC",
-    "course_name": "Design of Concrete Structure-II",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 60
-  },
-  {
-    "course": "CHC3130",
-    "id": "CHC3130",
-    "category": "DC",
-    "course_name": "Chemical Process Industries-I",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 24
-  },
-  {
-    "course": "COA3600",
-    "id": "COA3600",
-    "category": "ESA",
-    "course_name": "Data Structure and Programming",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 67
-  },
-  {
-    "course": "COC3110",
-    "id": "COC3110",
-    "category": "DC",
-    "course_name": "Theory of Computation",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 58
-  },
-  {
-    "course": "EEC3110",
-    "id": "EEC3110",
-    "category": "DC",
-    "course_name": "Electrical Drives",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 72
-  },
-  {
-    "course": "MEC3120",
-    "id": "MEC3120",
-    "category": "DC",
-    "course_name": "Machinery Dynamics",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 58
-  },
-  {
-    "course": "PKC3020",
-    "id": "PKC3020",
-    "category": "DC",
-    "course_name": "Petrochemical Technology - I",
-    "date": "17-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 13
-  },
-  {
-    "course": "AEC3220",
-    "id": "AEC3220",
-    "category": "DC",
-    "course_name": "I.C. Engines",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 19
-  },
-  {
-    "course": "AIE4370",
-    "id": "AIE4370",
-    "category": "DE",
-    "course_name": "Natural Language Processing",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 26
-  },
-  {
-    "course": "ARC3400",
-    "id": "ARC3400",
-    "category": "DC",
-    "course_name": "Construction & Materials - IV",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 20
-  },
-  {
-    "course": "CEC3170",
-    "id": "CEC3170",
-    "category": "DC",
-    "course_name": "Transportation Engineering",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 61
-  },
-  {
-    "course": "CHC3140",
-    "id": "CHC3140",
-    "category": "DC",
-    "course_name": "Process Equipment Design",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 24
-  },
-  {
-    "course": "COC3150",
-    "id": "COC3150",
-    "category": "DC",
-    "course_name": "Computer Graphics",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 57
-  },
-  {
-    "course": "EEA3020",
-    "id": "EEA3020",
-    "category": "ESA",
-    "course_name": "Process Instrumentation and Control",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 9
-  },
-  {
-    "course": "EEC3220",
-    "id": "EEC3220",
-    "category": "DC",
-    "course_name": "New and Renewable Energy Sources",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 71
-  },
-  {
-    "course": "ELC3420",
-    "id": "ELC3420",
-    "category": "DC",
-    "course_name": "Digital Communication",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 66
-  },
-  {
-    "course": "MEC3220",
-    "id": "MEC3220",
-    "category": "DC",
-    "course_name": "I.C. Engines",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 64
-  },
-  {
-    "course": "PKC3030",
-    "id": "PKC3030",
-    "category": "DC",
-    "course_name": "Heat Transfer Operations",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 1
-  },
-  {
-    "course": "PKC3060",
-    "id": "PKC3060",
-    "category": "DC",
-    "course_name": "Process Engineering and Equipment Design",
-    "date": "18-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 12
-  },
-  {
-    "course": "AEC3250",
-    "id": "AEC3250",
-    "category": "DC",
-    "course_name": "Automotive Emission & Control",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 18
-  },
-  {
-    "course": "AIC3120",
-    "id": "AIC3120",
-    "category": "DC",
-    "course_name": "Database Management System",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 27
-  },
-  {
-    "course": "ARC3420",
-    "id": "ARC3420",
-    "category": "DC",
-    "course_name": "Interior Design",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 21
-  },
-  {
-    "course": "CEC3180",
-    "id": "CEC3180",
-    "category": "DC",
-    "course_name": "Design of Steel Structures",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 61
-  },
-  {
-    "course": "CHC3150",
-    "id": "CHC3150",
-    "category": "DC",
-    "course_name": "Process Dynamics and Control",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 31
-  },
-  {
-    "course": "COC3120",
-    "id": "COC3120",
-    "category": "DC",
-    "course_name": "Database Management System",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 57
-  },
-  {
-    "course": "EEC3320",
-    "id": "EEC3320",
-    "category": "DC",
-    "course_name": "Electrical Power Gen. & Utilization",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 69
-  },
-  {
-    "course": "ELC3430",
-    "id": "ELC3430",
-    "category": "DC",
-    "course_name": "Digital Signal Processing",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 73
-  },
-  {
-    "course": "FTC3040",
-    "id": "FTC3040",
-    "category": "DC",
-    "course_name": "Fruits and Vegetable Processing Technology",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 10
-  },
-  {
-    "course": "MEC3230",
-    "id": "MEC3230",
-    "category": "DC",
-    "course_name": "Energy Conversion System",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 55
-  },
-  {
-    "course": "PKC3080",
-    "id": "PKC3080",
-    "category": "DC",
-    "course_name": "Natural Gas Processing",
-    "date": "19-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 11
-  },
-  {
-    "course": "AEC3340",
-    "id": "AEC3340",
-    "category": "DC",
-    "course_name": "Automotive Hydraulic Pneumatic Systems",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 19
-  },
-  {
-    "course": "AIC3130",
-    "id": "AIC3130",
-    "category": "DC",
-    "course_name": "Computer Networks",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 27
-  },
-  {
-    "course": "ARC3660",
-    "id": "ARC3660",
-    "category": "DC",
-    "course_name": "Architectural Design - V",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 22
-  },
-  {
-    "course": "CEC3190",
-    "id": "CEC3190",
-    "category": "DC",
-    "course_name": "Engineering Hydraulics-II",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 72
-  },
-  {
-    "course": "CHC3160",
-    "id": "CHC3160",
-    "category": "DC",
-    "course_name": "Energy Engineering and Management",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 26
-  },
-  {
-    "course": "COC3130",
-    "id": "COC3130",
-    "category": "DC",
-    "course_name": "Computer Networks",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 57
-  },
-  {
-    "course": "EEC3410",
-    "id": "EEC3410",
-    "category": "DC",
-    "course_name": "Dynamic System Analysis",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 71
-  },
-  {
-    "course": "ELC3620",
-    "id": "ELC3620",
-    "category": "DC",
-    "course_name": "Digital System Design",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 72
-  },
-  {
-    "course": "FTC3050",
-    "id": "FTC3050",
-    "category": "DC",
-    "course_name": "Meat, and Marine Product Technology",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 9
-  },
-  {
-    "course": "MEC3320",
-    "id": "MEC3320",
-    "category": "DC",
-    "course_name": "Fluid Machinery",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 56
-  },
-  {
-    "course": "PKE3510",
-    "id": "PKE3510",
-    "category": "DE",
-    "course_name": "Heterogeneous Reaction Engineering",
-    "date": "20-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 10
-  },
-  {
-    "course": "CEA3180",
-    "id": "CEA3180",
-    "category": "ESA",
-    "course_name": "Structural Design-II",
-    "date": "21-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 22
-  },
-  {
-    "course": "CEC3200",
-    "id": "CEC3200",
-    "category": "DC",
-    "course_name": "Structural Analysis-II",
-    "date": "21-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 66
-  },
-  {
-    "course": "CHC3170",
-    "id": "CHC3170",
-    "category": "DC",
-    "course_name": "Chemical Reaction Engineering -II",
-    "date": "21-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 24
-  },
-  {
-    "course": "EEC3710",
-    "id": "EEC3710",
-    "category": "DC",
-    "course_name": "Microcontroller Systems and Appl.",
-    "date": "21-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 69
-  },
-  {
-    "course": "FTC3060",
-    "id": "FTC3060",
-    "category": "DC",
-    "course_name": "Food Packaging and Transportation Technology",
-    "date": "21-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 9
-  },
-  {
-    "course": "CEE4510",
-    "id": "CEE4510",
-    "category": "DE",
-    "course_name": "Concrete Technology",
-    "date": "22-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 38
-  },
-  {
-    "course": "CHC3180",
-    "id": "CHC3180",
-    "category": "DC",
-    "course_name": "Transport Phenomena",
-    "date": "22-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 26
-  },
-  {
-    "course": "EZH3010",
-    "id": "EZH3010",
-    "category": "HM",
-    "course_name": "Fundamentals of Entrepreneurship",
-    "date": "22-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 52
-  },
-  {
-    "course": "EZH3020",
-    "id": "EZH3020",
-    "category": "HM",
-    "course_name": "Intellectual Property Rights for Engineers",
-    "date": "22-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 66
-  },
-  {
-    "course": "EZH3030",
-    "id": "EZH3030",
-    "category": "HM",
-    "course_name": "Patent law for Engineers",
-    "date": "22-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 60
-  },
-  {
-    "course": "FTC3070",
-    "id": "FTC3070",
-    "category": "DC",
-    "course_name": "Food Plant Design",
-    "date": "22-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 9
-  },
-  {
-    "course": "PKC3040",
-    "id": "PKC3040",
-    "category": "DC",
-    "course_name": "Transport Phenomena",
-    "date": "22-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 14
-  },
-  {
-    "course": "CEE4530",
-    "id": "CEE4530",
-    "category": "DE",
-    "course_name": "Traffic Engineering",
-    "date": "23-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 23
-  },
-  {
-    "course": "FTC3080",
-    "id": "FTC3080",
-    "category": "DC",
-    "course_name": "Food Process Equipment Design",
-    "date": "23-02-25",
-    "time": "9:45AM-10:45AM",
-    "student_count": 9
-  },
-  {
-    "course": "EEE4720",
-    "id": "EEE4720",
-    "category": "DE",
-    "course_name": "Machine Learning",
-    "date": "17-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 28
-  },
-  {
-    "course": "ARH4200",
-    "id": "ARH4200",
-    "category": "HM",
-    "course_name": "Building Construction Management & Economics",
-    "date": "19-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 21
-  },
-  {
-    "course": "CHE4610",
-    "id": "CHE4610",
-    "category": "DE",
-    "course_name": "Colloidal and Surface Science",
-    "date": "19-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 9
-  },
-  {
-    "course": "CHE4710",
-    "id": "CHE4710",
-    "category": "DE",
-    "course_name": "CAD of Process Equipments",
-    "date": "19-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 18
-  },
-  {
-    "course": "EEE4520",
-    "id": "EEE4520",
-    "category": "DE",
-    "course_name": "Process Instrumentation & Control",
-    "date": "19-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 48
-  },
-  {
-    "course": "AIE4260",
-    "id": "AIE4260",
-    "category": "DE",
-    "course_name": "Computational Intelligence",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 29
-  },
-  {
-    "course": "ARC4180",
-    "id": "ARC4180",
-    "category": "DC",
-    "course_name": "Urban Design",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 22
-  },
-  {
-    "course": "CEE4570",
-    "id": "CEE4570",
-    "category": "DE",
-    "course_name": "Rock Engineering",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 37
-  },
-  {
-    "course": "CEE4630",
-    "id": "CEE4630",
-    "category": "DE",
-    "course_name": "Bridge Engineering",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 20
-  },
-  {
-    "course": "CHC4230",
-    "id": "CHC4230",
-    "category": "DC",
-    "course_name": "Process Safety and Risk Analysis",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 28
-  },
-  {
-    "course": "COE4380",
-    "id": "COE4380",
-    "category": "DE",
-    "course_name": "Selected Topics in Computer Applications",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 46
-  },
-  {
-    "course": "EEE4120",
-    "id": "EEE4120",
-    "category": "DE",
-    "course_name": "Electric Vehicles & Traction",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 66
-  },
-  {
-    "course": "ELE4110",
-    "id": "ELE4110",
-    "category": "DE",
-    "course_name": "RF System Design",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 55
-  },
-  {
-    "course": "FTC4050",
-    "id": "FTC4050",
-    "category": "DC",
-    "course_name": "Food Industry Waste Management",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 13
-  },
-  {
-    "course": "MEE4110",
-    "id": "MEE4110",
-    "category": "DE",
-    "course_name": "Fracture Mechanics",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 15
-  },
-  {
-    "course": "MEE4250",
-    "id": "MEE4250",
-    "category": "DE",
-    "course_name": "Energy Audit Conservation & Management",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 45
-  },
-  {
-    "course": "MEE4280",
-    "id": "MEE4280",
-    "category": "DE",
-    "course_name": "Nano Fluid & its Application",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 15
-  },
-  {
-    "course": "PKC4020",
-    "id": "PKC4020",
-    "category": "DC",
-    "course_name": "Process Utilities and Energy Management",
-    "date": "20-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 17
-  },
-  {
-    "course": "AIE4570",
-    "id": "AIE4570",
-    "category": "DE",
-    "course_name": "Internet of Things",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 29
-  },
-  {
-    "course": "ARC4680",
-    "id": "ARC4680",
-    "category": "DC",
-    "course_name": "Architectural Design - VII",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 22
-  },
-  {
-    "course": "CEE4660",
-    "id": "CEE4660",
-    "category": "DE",
-    "course_name": "Pre-Stressed Concrete",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 19
-  },
-  {
-    "course": "COE4520",
-    "id": "COE4520",
-    "category": "DE",
-    "course_name": "Mobile Computing",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 62
-  },
-  {
-    "course": "EEE4320",
-    "id": "EEE4320",
-    "category": "DE",
-    "course_name": "Power Quality",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 59
-  },
-  {
-    "course": "ELE4120",
-    "id": "ELE4120",
-    "category": "DE",
-    "course_name": "Semiconductor Device Modelling",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 58
-  },
-  {
-    "course": "CEE4730",
-    "id": "CEE4730",
-    "category": "DE",
-    "course_name": "Elements of Earthquake & Wind Engineering",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 38
-  },
-  {
-    "course": "CHC4240",
-    "id": "CHC4240",
-    "category": "DC",
-    "course_name": "Modeling,Simulation and Optimization",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 27
-  },
-  {
-    "course": "ARO4280",
-    "id": "ARO4280",
-    "category": "OE",
-    "course_name": "Urban and Regional Planning",
-    "date": "23-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 59
-  },
-  {
-    "course": "CEO4720",
-    "id": "CEO4720",
-    "category": "OE",
-    "course_name": "Advanced Environmental Engineering",
-    "date": "23-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 39
-  },
-  {
-    "course": "MEE4120",
-    "id": "MEE4120",
-    "category": "DE",
-    "course_name": "Introduction to FEM",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 27
-  },
-  {
-    "course": "MEE4510",
-    "id": "MEE4510",
-    "category": "DE",
-    "course_name": "Fundamental of Robotics",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 48
-  },
-  {
-    "course": "PKE4510",
-    "id": "PKE4510",
-    "category": "DE",
-    "course_name": "Process Instrumentation",
-    "date": "21-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 17
-  },
-  {
-    "course": "CEO4740",
-    "id": "CEO4740",
-    "category": "OE",
-    "course_name": "Water Resources & Watershed Management",
-    "date": "23-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 9
-  },
-  {
-    "course": "CHE4560",
-    "id": "CHE4560",
-    "category": "DE",
-    "course_name": "Industrial Pollution Control",
-    "date": "22-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 28
-  },
-  {
-    "course": "COO4470",
-    "id": "COO4470",
-    "category": "OE",
-    "course_name": "Selected Topics in Computer Engineering II",
-    "date": "23-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 39
-  },
-  {
-    "course": "COE4590",
-    "id": "COE4590",
-    "category": "DE",
-    "course_name": "Distributed and Parallel Systems",
-    "date": "22-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 70
-  },
-  {
-    "course": "EEE4350",
-    "id": "EEE4350",
-    "category": "DE",
-    "course_name": "HVDC and FACTS Technology",
-    "date": "22-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 63
-  },
-  {
-    "course": "ELE4410",
-    "id": "ELE4410",
-    "category": "DE",
-    "course_name": "Multimedia Systems & Networks",
-    "date": "22-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 51
-  },
-  {
-    "course": "MEE4211",
-    "id": "MEE4211",
-    "category": "DE",
-    "course_name": "Introduction to Combustion",
-    "date": "22-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 50
-  },
-  {
-    "course": "MEE4520",
-    "id": "MEE4520",
-    "category": "DE",
-    "course_name": "Introduction to Microfluidics",
-    "date": "22-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 23
-  },
-  {
-    "course": "PKE4540",
-    "id": "PKE4540",
-    "category": "DE",
-    "course_name": "Fertilizer Technology",
-    "date": "22-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 17
-  },
-  {
-    "course": "EEO4210",
-    "id": "EEO4210",
-    "category": "OE",
-    "course_name": "Renewable Energy Sources",
-    "date": "23-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 61
-  },
-  {
-    "course": "ACO3080",
-    "id": "ACO3080",
-    "category": "OE",
-    "course_name": "Atmospheric Chemistry",
-    "date": "23-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 60
-  },
-  {
-    "course": "AMO4430",
-    "id": "AMO4430",
-    "category": "OE",
-    "course_name": "Advanced Numerical Methods",
-    "date": "23-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 39
-  },
-  {
-    "course": "APO3040",
-    "id": "APO3040",
-    "category": "OE",
-    "course_name": "Biophysics",
-    "date": "23-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 60
-  },
-  {
-    "course": "MEO4220",
-    "id": "MEO4220",
-    "category": "OE",
-    "course_name": "Non Conventional Energy",
-    "date": "23-02-25",
-    "time": "12:15PM-1:15PM",
-    "student_count": 55
-  },
-  {
-    "course": "COE4420",
-    "id": "COE4420",
-    "category": "DE",
-    "course_name": "VLSI Design Tool Techniques",
-    "date": "18-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 9
-  },
-  {
-    "course": "MEH2450",
-    "id": "MEH2450",
-    "category": "HM",
-    "course_name": "Engineering Economy & Management",
-    "date": "18-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 12
-  },
-  {
-    "course": "MEH2452",
-    "id": "MEH2452",
-    "category": "HM",
-    "course_name": "Engineering Economy & Management",
-    "date": "18-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 68
-  },
-  {
-    "course": "MEH3450",
-    "id": "MEH3450",
-    "category": "HM",
-    "course_name": "Engineering Economy & Management",
-    "date": "18-02-25",
-    "time": "1:30PM-2:30PM",
-    "student_count": 123
-  }
-]
+{
+  "even": [
+    {
+      "course": "ACS1110",
+      "id": "ACS1110",
+      "category": "BS",
+      "course_name": "Applied Chemistry",
+      "date": "17-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 5
+    },
+    {
+      "course": "ACS1112",
+      "id": "ACS1112",
+      "category": "BS",
+      "course_name": "Applied Chemistry",
+      "date": "17-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 298
+    },
+    {
+      "course": "ARC1320",
+      "id": "ARC1320",
+      "category": "DC",
+      "course_name": "Construction and Materials - I",
+      "date": "17-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 25
+    },
+    {
+      "course": "CEA1120",
+      "id": "CEA1120",
+      "category": "ESA",
+      "course_name": "Strength of Materials",
+      "date": "17-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 3
+    },
+    {
+      "course": "AMS1120",
+      "id": "AMS1120",
+      "category": "BS",
+      "course_name": "Applied Mathematics-II",
+      "date": "18-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 59
+    },
+    {
+      "course": "AMS1122",
+      "id": "AMS1122",
+      "category": "BS",
+      "course_name": "Applied Mathematics-II",
+      "date": "18-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 668
+    },
+    {
+      "course": "ARC1340",
+      "id": "ARC1340",
+      "category": "DC",
+      "course_name": "Architectural Drawing-II",
+      "date": "18-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 25
+    },
+    {
+      "course": "APS1110",
+      "id": "APS1110",
+      "category": "BS",
+      "course_name": "Applied Physics",
+      "date": "19-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 10
+    },
+    {
+      "course": "APS1112",
+      "id": "APS1112",
+      "category": "BS",
+      "course_name": "Applied Physics",
+      "date": "19-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 337
+    },
+    {
+      "course": "ARC1360",
+      "id": "ARC1360",
+      "category": "DC",
+      "course_name": "Arts and Graphics",
+      "date": "19-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 25
+    },
+    {
+      "course": "ARC1620",
+      "id": "ARC1620",
+      "category": "DC",
+      "course_name": "Architecture Design - I",
+      "date": "20-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 25
+    },
+    {
+      "course": "EEA1110",
+      "id": "EEA1110",
+      "category": "ESA",
+      "course_name": "Principles of Electrical Engineering",
+      "date": "20-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 4
+    },
+    {
+      "course": "EEA1112",
+      "id": "EEA1112",
+      "category": "ESA",
+      "course_name": "Principles of Electrical Engineering",
+      "date": "20-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 296
+    },
+    {
+      "course": "EZH1110",
+      "id": "EZH1110",
+      "category": "HM",
+      "course_name": "English",
+      "date": "20-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 2
+    },
+    {
+      "course": "EZHI112",
+      "category": "HM",
+      "course_name": "English",
+      "date": "20-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 320
+    },
+    {
+      "course": "ARH1020",
+      "id": "ARH1020",
+      "category": "HM",
+      "course_name": "Man Society & Buildings",
+      "date": "21-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 24
+    },
+    {
+      "course": "ELA1110",
+      "id": "ELA1110",
+      "category": "ESA",
+      "course_name": "Principles of Electronics Engineering",
+      "date": "21-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 13
+    },
+    {
+      "course": "ELA1112",
+      "id": "ELA1112",
+      "category": "ESA",
+      "course_name": "Principles of Electronics Engineering",
+      "date": "21-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 368
+    },
+    {
+      "course": "CEA1110",
+      "id": "CEA1110",
+      "category": "AU",
+      "course_name": "Environmental Studies",
+      "date": "22-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 26
+    },
+    {
+      "course": "CEU1112",
+      "id": "CEU1112",
+      "category": "AU",
+      "course_name": "Environmental Studies",
+      "date": "22-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 280
+    },
+    {
+      "course": "MEA1120",
+      "id": "MEA1120",
+      "category": "ESA",
+      "course_name": "Engineering Mechanics",
+      "date": "22-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 12
+    },
+    {
+      "course": "MEA1122",
+      "id": "MEA1122",
+      "category": "ESA",
+      "course_name": "Engineering Mechanics",
+      "date": "22-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 355
+    },
+    {
+      "course": "MEA1110",
+      "id": "MEA1110",
+      "category": "ESA",
+      "course_name": "Engineering Thermodynamics",
+      "date": "23-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 8
+    },
+    {
+      "course": "MEA1112",
+      "id": "MEA1112",
+      "category": "ESA",
+      "course_name": "Thermal Sciences",
+      "date": "23-02-25",
+      "time": "8:30AM-9:30AM",
+      "student_count": 313
+    },
+    {
+      "course": "ACA2120",
+      "id": "ACA2120",
+      "category": "ESA",
+      "course_name": "Material Science & Engg Materials",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 2
+    },
+    {
+      "course": "AEC2220",
+      "id": "AEC2220",
+      "category": "DC",
+      "course_name": "Applied Thermodynamics & Heat Transfer",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 9
+    },
+    {
+      "course": "AEC2222",
+      "id": "AEC2222",
+      "category": "DC",
+      "course_name": "Applied Thermodynamics & Heat Transfer",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 21
+    },
+    {
+      "course": "AIC2042",
+      "id": "AIC2042",
+      "category": "PC",
+      "course_name": "Principles of Machine Learning",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 35
+    },
+    {
+      "course": "AIC2130",
+      "id": "AIC2130",
+      "category": "DC",
+      "course_name": "Statistical Learning",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 4
+    },
+    {
+      "course": "AMS2120",
+      "id": "AMS2120",
+      "category": "BS",
+      "course_name": "Mathematics-IV",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 4
+    },
+    {
+      "course": "AMS2122",
+      "id": "AMS2122",
+      "category": "BS",
+      "course_name": "Applied Mathematics-IV",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 54
+    },
+    {
+      "course": "AMS2422",
+      "id": "AMS2422",
+      "category": "BS",
+      "course_name": "Applied Numerical Methods",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 19
+    },
+    {
+      "course": "AMS2620",
+      "id": "AMS2620",
+      "category": "BS",
+      "course_name": "Numerical Analysis, Transforms and Probability",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 4
+    },
+    {
+      "course": "AMS2622",
+      "id": "AMS2622",
+      "category": "BS",
+      "course_name": "Numerical Analysis, Transforms and Probability",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 63
+    },
+    {
+      "course": "ARC2040",
+      "id": "ARC2040",
+      "category": "DC",
+      "course_name": "Pre-Modern/Western Architecture",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 23
+    },
+    {
+      "course": "CEC2130",
+      "id": "CEC2130",
+      "category": "DC",
+      "course_name": "Fluid Mechanics",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 1
+    },
+    {
+      "course": "CEH2210",
+      "id": "CEH2210",
+      "category": "HM",
+      "course_name": "Construction Management I",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 2
+    },
+    {
+      "course": "CHA2020",
+      "id": "CHA2020",
+      "category": "ESA",
+      "course_name": "Biology for Engineers",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 1
+    },
+    {
+      "course": "CHC2002",
+      "id": "CHC2002",
+      "category": "PC",
+      "course_name": "Process Instrumentation",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 30
+    },
+    {
+      "course": "CHH2130",
+      "id": "CHH2130",
+      "category": "HM",
+      "course_name": "Social, Cultural & Educational Movements of India",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 1
+    },
+    {
+      "course": "COA2602",
+      "id": "COA2602",
+      "category": "ESA",
+      "course_name": "Data Structures and Programming",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 59
+    },
+    {
+      "course": "EEA2020",
+      "id": "EEA2020",
+      "category": "ESA",
+      "course_name": "Electrical Technology",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 6
+    },
+    {
+      "course": "EEA2022",
+      "id": "EEA2022",
+      "category": "ESA",
+      "course_name": "Electrical Technology & Control",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 78
+    },
+    {
+      "course": "EEC2120",
+      "id": "EEC2120",
+      "category": "DC",
+      "course_name": "Electrical Machines II",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 20
+    },
+    {
+      "course": "EEC2122",
+      "id": "EEC2122",
+      "category": "DC",
+      "course_name": "Electrical Machines II",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 68
+    },
+    {
+      "course": "ELC2140",
+      "id": "ELC2140",
+      "category": "DC",
+      "course_name": "Electronic Circuits",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 14
+    },
+    {
+      "course": "FTC2042",
+      "id": "FTC2042",
+      "category": "PC",
+      "course_name": "Food Preservation and Processing",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 9
+    },
+    {
+      "course": "PKC2040",
+      "id": "PKC2040",
+      "category": "DC",
+      "course_name": "Separation Proc. in Hydrocarbon Industries",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 2
+    },
+    {
+      "course": "PKC2080",
+      "id": "PKC2080",
+      "category": "DC",
+      "course_name": "Alternate Fuels and Energy Resources",
+      "date": "17-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 30
+    },
+    {
+      "course": "ACS2022",
+      "id": "ACS2022",
+      "category": "BS",
+      "course_name": "Engineering Chemistry",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 2
+    },
+    {
+      "course": "ACS2110",
+      "id": "ACS2110",
+      "category": "BS",
+      "course_name": "Engineering Chemistry",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 21
+    },
+    {
+      "course": "AEC2762",
+      "id": "AEC2762",
+      "category": "DC",
+      "course_name": "Additive Manufacturing",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 6
+    },
+    {
+      "course": "AIC2140",
+      "id": "AIC2140",
+      "category": "DC",
+      "course_name": "Design & Analysis of Algorithm",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 35
+    },
+    {
+      "course": "AIC2142",
+      "id": "AIC2142",
+      "category": "DC",
+      "course_name": "Design & Analysis of Algorithm",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 23
+    },
+    {
+      "course": "ARC2060",
+      "id": "ARC2060",
+      "category": "DC",
+      "course_name": "Building Services-II (Electrical, Illumination and Acoustics)",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 55
+    },
+    {
+      "course": "CEA2162",
+      "id": "CEA2162",
+      "category": "ESA",
+      "course_name": "Environmental Engineering",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 12
+    },
+    {
+      "course": "CEC2170",
+      "id": "CEC2170",
+      "category": "DC",
+      "course_name": "Environmental Engineering I",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 11
+    },
+    {
+      "course": "COC2140",
+      "id": "COC2140",
+      "category": "DC",
+      "course_name": "Design & Analysis of Algorithm",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 63
+    },
+    {
+      "course": "COC2142",
+      "id": "COC2142",
+      "category": "DC",
+      "course_name": "Design & Analysis of Algorithm",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 3
+    },
+    {
+      "course": "EEA2010",
+      "id": "EEA2010",
+      "category": "ESA",
+      "course_name": "Electrical Engineering",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 59
+    },
+    {
+      "course": "EEA2012",
+      "id": "EEA2012",
+      "category": "ESA",
+      "course_name": "Electrical Engineering",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 21
+    },
+    {
+      "course": "EEC2210",
+      "id": "EEC2210",
+      "category": "PC",
+      "course_name": "Power Electronics-I",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 68
+    },
+    {
+      "course": "EEC2212",
+      "id": "EEC2212",
+      "category": "PC",
+      "course_name": "Power Electronics-I",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 9
+    },
+    {
+      "course": "FTC2082",
+      "id": "FTC2082",
+      "category": "PC",
+      "course_name": "Bakery and Confectionery Technology",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 14
+    },
+    {
+      "course": "MEC2130",
+      "id": "MEC2130",
+      "category": "DC",
+      "course_name": "Machine Design I",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 78
+    },
+    {
+      "course": "MEC2132",
+      "id": "MEC2132",
+      "category": "DC",
+      "course_name": "Machine Design I",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 1
+    },
+    {
+      "course": "PKC2070",
+      "id": "PKC2070",
+      "category": "PC",
+      "course_name": "Reaction Kinetics and Reactor Design",
+      "date": "18-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 19
+    },
+    {
+      "course": "PKC2242",
+      "id": "PKC2242",
+      "category": "PC",
+      "course_name": "Reaction Kinetics and Reactor Design",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 21
+    },
+    {
+      "course": "AEC2450",
+      "id": "AEC2450",
+      "category": "DC",
+      "course_name": "Vehicle Body Design",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 35
+    },
+    {
+      "course": "AEC2452",
+      "id": "AEC2452",
+      "category": "DC",
+      "course_name": "Vehicle Body Design",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 4
+    },
+    {
+      "course": "AIC2152",
+      "id": "AIC2152",
+      "category": "DC",
+      "course_name": "AI Tools & Techniques",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 24
+    },
+    {
+      "course": "ARC2380",
+      "id": "ARC2380",
+      "category": "DC",
+      "course_name": "Construction and Materials-III",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 55
+    },
+    {
+      "course": "CEC2132",
+      "id": "CEC2132",
+      "category": "DC",
+      "course_name": "Fluid Mechanics",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 30
+    },
+    {
+      "course": "CHC2022",
+      "id": "CHC2022",
+      "category": "PC",
+      "course_name": "Chemical Reaction Engineering",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 68
+    },
+    {
+      "course": "CHC2050",
+      "id": "CHC2050",
+      "category": "DC",
+      "course_name": "Chemical Engineering Thermodynamics",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 3
+    },
+    {
+      "course": "COC2080",
+      "id": "COC2080",
+      "category": "DC",
+      "course_name": "Computer Architecture",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 63
+    },
+    {
+      "course": "COC2082",
+      "id": "COC2082",
+      "category": "DC",
+      "course_name": "Computer Architecture",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 14
+    },
+    {
+      "course": "EEC2310",
+      "id": "EEC2310",
+      "category": "DC",
+      "course_name": "Power System Engineering",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 68
+    },
+    {
+      "course": "EEC2312",
+      "id": "EEC2312",
+      "category": "DC",
+      "course_name": "Power System Engineering",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 59
+    },
+    {
+      "course": "ELA2432",
+      "id": "ELA2432",
+      "category": "ESA",
+      "course_name": "Representation and Analysis of Random Signals",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 4
+    },
+    {
+      "course": "ELC2210",
+      "id": "ELC2210",
+      "category": "DC",
+      "course_name": "Measurement and Instrumentation",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 1
+    },
+    {
+      "course": "FTC2050",
+      "id": "FTC2050",
+      "category": "DC",
+      "course_name": "Chemical Engg Thermodynamics",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 9
+    },
+    {
+      "course": "FTC2092",
+      "id": "FTC2092",
+      "category": "PC",
+      "course_name": "Food Law, Safety Standards & Regulations",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 24
+    },
+    {
+      "course": "MEC2210",
+      "id": "MEC2210",
+      "category": "PC",
+      "course_name": "Applied Thermodynamics",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 77
+    },
+    {
+      "course": "MEC2212",
+      "id": "MEC2212",
+      "category": "PC",
+      "course_name": "Applied Thermodynamics",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 3
+    },
+    {
+      "course": "PKC2020",
+      "id": "PKC2020",
+      "category": "DC",
+      "course_name": "Chemical Engineering Thermodynamics",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 19
+    },
+    {
+      "course": "PKC2222",
+      "id": "PKC2222",
+      "category": "DC",
+      "course_name": "Chemical Engineering Thermodynamics",
+      "date": "19-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 6
+    },
+    {
+      "course": "AEC2410",
+      "id": "AEC2410",
+      "category": "DC",
+      "course_name": "Manufacturing Technology",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 21
+    },
+    {
+      "course": "AEC2412",
+      "id": "AEC2412",
+      "category": "PC",
+      "course_name": "Manufacturing Technology",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 11
+    },
+    {
+      "course": "AMS2630",
+      "id": "AMS2630",
+      "category": "BS",
+      "course_name": "Discrete Structures",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 98
+    },
+    {
+      "course": "AMS2632",
+      "id": "AMS2632",
+      "category": "BS",
+      "course_name": "Discrete Structures",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 23
+    },
+    {
+      "course": "ARC2640",
+      "id": "ARC2640",
+      "category": "DC",
+      "course_name": "Architecture Design - III",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 55
+    },
+    {
+      "course": "CEC2190",
+      "id": "CEC2190",
+      "category": "DC",
+      "course_name": "Hydrology",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 3
+    },
+    {
+      "course": "CEC2192",
+      "id": "CEC2192",
+      "category": "DC",
+      "course_name": "Hydrology",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 20
+    },
+    {
+      "course": "CHC2060",
+      "id": "CHC2060",
+      "category": "DC",
+      "course_name": "Heat Transfer Operations",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 68
+    },
+    {
+      "course": "CHC2070",
+      "id": "CHC2070",
+      "category": "DC",
+      "course_name": "Numerical Methods in Chemical Engg.",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 16
+    },
+    {
+      "course": "CHC2082",
+      "id": "CHC2082",
+      "category": "PC",
+      "course_name": "Mass Transfer Operations",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 59
+    },
+    {
+      "course": "EEC2510",
+      "id": "EEC2510",
+      "category": "DC",
+      "course_name": "Electrical Measurement",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 4
+    },
+    {
+      "course": "EEC2512",
+      "id": "EEC2512",
+      "category": "DC",
+      "course_name": "Electrical Measurement",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 78
+    },
+    {
+      "course": "ELC2130",
+      "id": "ELC2130",
+      "category": "PC",
+      "course_name": "Digital Electronics",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 8
+    },
+    {
+      "course": "ELC2132",
+      "id": "ELC2132",
+      "category": "PC",
+      "course_name": "Digital Electronics",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 66
+    },
+    {
+      "course": "FTC2060",
+      "id": "FTC2060",
+      "category": "DC",
+      "course_name": "Heat Transfer Operations",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 4
+    },
+    {
+      "course": "FTC2152",
+      "id": "FTC2152",
+      "category": "PC",
+      "course_name": "Meat Poultry and Marine Product Technology",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 9
+    },
+    {
+      "course": "MEC2410",
+      "id": "MEC2410",
+      "category": "DC",
+      "course_name": "Manufacturing Technology-I",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 8
+    },
+    {
+      "course": "MEC2412",
+      "id": "MEC2412",
+      "category": "PC",
+      "course_name": "Manufacturing Technology-I",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 78
+    },
+    {
+      "course": "MEC2430",
+      "id": "MEC2430",
+      "category": "DC",
+      "course_name": "Material Science",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 2
+    },
+    {
+      "course": "PKC2262",
+      "id": "PKC2262",
+      "category": "PC",
+      "course_name": "Mass Transfer Operations",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 19
+    },
+    {
+      "course": "PKC3050",
+      "id": "PKC3050",
+      "category": "PC",
+      "course_name": "Mass Transfer Operations",
+      "date": "20-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 5
+    },
+    {
+      "course": "AMS2320",
+      "id": "AMS2320",
+      "category": "BS",
+      "course_name": "Numerical Methods & Optimization",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 8
+    },
+    {
+      "course": "AMS2322",
+      "id": "AMS2322",
+      "category": "BS",
+      "course_name": "Numerical Methods & Optimization",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 99
+    },
+    {
+      "course": "CEA2180",
+      "id": "CEA2180",
+      "category": "ESA",
+      "course_name": "Surveying",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 25
+    },
+    {
+      "course": "CEC2180",
+      "id": "CEC2180",
+      "category": "ESA",
+      "course_name": "Surveying",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 3
+    },
+    {
+      "course": "CEC2182",
+      "id": "CEC2182",
+      "category": "ESA",
+      "course_name": "Surveying",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 55
+    },
+    {
+      "course": "CHC2092",
+      "id": "CHC2092",
+      "category": "PC",
+      "course_name": "Equilibrium Stage Processes",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 30
+    },
+    {
+      "course": "COC2090",
+      "id": "COC2090",
+      "category": "DC",
+      "course_name": "Software Engineering",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 2
+    },
+    {
+      "course": "ELA2010",
+      "id": "ELA2010",
+      "category": "ESA",
+      "course_name": "Logic & Digital Circuit",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 12
+    },
+    {
+      "course": "ELA2012",
+      "id": "ELA2012",
+      "category": "ESA",
+      "course_name": "Logic & Digital Circuit",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 68
+    },
+    {
+      "course": "ELA2412",
+      "id": "ELA2412",
+      "category": "ESA",
+      "course_name": "Fundamentals of Digital Signal Processing",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 98
+    },
+    {
+      "course": "ELC2152",
+      "id": "ELC2152",
+      "category": "PC",
+      "course_name": "Analog Electronics",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 59
+    },
+    {
+      "course": "ELC2420",
+      "id": "ELC2420",
+      "category": "DC",
+      "course_name": "Principles of Communication Engineering I",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 14
+    },
+    {
+      "course": "FTC2172",
+      "id": "FTC2172",
+      "category": "PC",
+      "course_name": "Food Packaging and Storage Engineering",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 9
+    },
+    {
+      "course": "PKC2282",
+      "id": "PKC2282",
+      "category": "PC",
+      "course_name": "Introduction to Petroleum Engineering",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 19
+    },
+    {
+      "course": "PKE2510",
+      "id": "PKE2510",
+      "category": "PC",
+      "course_name": "Introduction To Petroleum Engg.",
+      "date": "21-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 3
+    },
+    {
+      "course": "CEC2200",
+      "id": "CEC2200",
+      "category": "DC",
+      "course_name": "Structural Mechanics",
+      "date": "22-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 25
+    },
+    {
+      "course": "CEC2202",
+      "id": "CEC2202",
+      "category": "DC",
+      "course_name": "Structural Mechanics",
+      "date": "22-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 55
+    },
+    {
+      "course": "EEA2042",
+      "id": "EEA2042",
+      "category": "ESA",
+      "course_name": "Automotive Electrical & Electronic System",
+      "date": "22-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 21
+    },
+    {
+      "course": "ELA2410",
+      "id": "ELA2410",
+      "category": "ESA",
+      "course_name": "Signals & Systems",
+      "date": "22-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 17
+    },
+    {
+      "course": "ELA2510",
+      "id": "ELA2510",
+      "category": "PC",
+      "course_name": "Electromagnetics",
+      "date": "22-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 21
+    },
+    {
+      "course": "ELC2512",
+      "id": "ELC2512",
+      "category": "PC",
+      "course_name": "Electromagnetics",
+      "date": "22-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 59
+    },
+    {
+      "course": "MEC2440",
+      "id": "MEC2440",
+      "category": "DC",
+      "course_name": "Manufacturing Technology-II",
+      "date": "22-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 13
+    },
+    {
+      "course": "PKH2202",
+      "id": "PKH2202",
+      "category": "HM",
+      "course_name": "Health, Safety and Environment Management",
+      "date": "22-02-25",
+      "time": "11:00AM-12:00Noon",
+      "student_count": 19
+    },
+    {
+      "course": "ACS3011",
+      "id": "ACS3011",
+      "category": "BS",
+      "course_name": "Instrumental Techniques in Food Analysis",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 9
+    },
+    {
+      "course": "AEC3120",
+      "id": "AEC3120",
+      "category": "DC",
+      "course_name": "Machinery Dynamics",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 19
+    },
+    {
+      "course": "AIC3140",
+      "id": "AIC3140",
+      "category": "DC",
+      "course_name": "Deep Learning",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 27
+    },
+    {
+      "course": "ARC3080",
+      "id": "ARC3080",
+      "category": "DC",
+      "course_name": "Town Planning",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 20
+    },
+    {
+      "course": "CEC3160",
+      "id": "CEC3160",
+      "category": "DC",
+      "course_name": "Design of Concrete Structure-II",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 60
+    },
+    {
+      "course": "CHC3130",
+      "id": "CHC3130",
+      "category": "DC",
+      "course_name": "Chemical Process Industries-I",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 24
+    },
+    {
+      "course": "COA3600",
+      "id": "COA3600",
+      "category": "ESA",
+      "course_name": "Data Structure and Programming",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 67
+    },
+    {
+      "course": "COC3110",
+      "id": "COC3110",
+      "category": "DC",
+      "course_name": "Theory of Computation",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 58
+    },
+    {
+      "course": "EEC3110",
+      "id": "EEC3110",
+      "category": "DC",
+      "course_name": "Electrical Drives",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 72
+    },
+    {
+      "course": "MEC3120",
+      "id": "MEC3120",
+      "category": "DC",
+      "course_name": "Machinery Dynamics",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 58
+    },
+    {
+      "course": "PKC3020",
+      "id": "PKC3020",
+      "category": "DC",
+      "course_name": "Petrochemical Technology - I",
+      "date": "17-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 13
+    },
+    {
+      "course": "AEC3220",
+      "id": "AEC3220",
+      "category": "DC",
+      "course_name": "I.C. Engines",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 19
+    },
+    {
+      "course": "AIE4370",
+      "id": "AIE4370",
+      "category": "DE",
+      "course_name": "Natural Language Processing",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 26
+    },
+    {
+      "course": "ARC3400",
+      "id": "ARC3400",
+      "category": "DC",
+      "course_name": "Construction & Materials - IV",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 20
+    },
+    {
+      "course": "CEC3170",
+      "id": "CEC3170",
+      "category": "DC",
+      "course_name": "Transportation Engineering",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 61
+    },
+    {
+      "course": "CHC3140",
+      "id": "CHC3140",
+      "category": "DC",
+      "course_name": "Process Equipment Design",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 24
+    },
+    {
+      "course": "COC3150",
+      "id": "COC3150",
+      "category": "DC",
+      "course_name": "Computer Graphics",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 57
+    },
+    {
+      "course": "EEA3020",
+      "id": "EEA3020",
+      "category": "ESA",
+      "course_name": "Process Instrumentation and Control",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 9
+    },
+    {
+      "course": "EEC3220",
+      "id": "EEC3220",
+      "category": "DC",
+      "course_name": "New and Renewable Energy Sources",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 71
+    },
+    {
+      "course": "ELC3420",
+      "id": "ELC3420",
+      "category": "DC",
+      "course_name": "Digital Communication",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 66
+    },
+    {
+      "course": "MEC3220",
+      "id": "MEC3220",
+      "category": "DC",
+      "course_name": "I.C. Engines",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 64
+    },
+    {
+      "course": "PKC3030",
+      "id": "PKC3030",
+      "category": "DC",
+      "course_name": "Heat Transfer Operations",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 1
+    },
+    {
+      "course": "PKC3060",
+      "id": "PKC3060",
+      "category": "DC",
+      "course_name": "Process Engineering and Equipment Design",
+      "date": "18-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 12
+    },
+    {
+      "course": "AEC3250",
+      "id": "AEC3250",
+      "category": "DC",
+      "course_name": "Automotive Emission & Control",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 18
+    },
+    {
+      "course": "AIC3120",
+      "id": "AIC3120",
+      "category": "DC",
+      "course_name": "Database Management System",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 27
+    },
+    {
+      "course": "ARC3420",
+      "id": "ARC3420",
+      "category": "DC",
+      "course_name": "Interior Design",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 21
+    },
+    {
+      "course": "CEC3180",
+      "id": "CEC3180",
+      "category": "DC",
+      "course_name": "Design of Steel Structures",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 61
+    },
+    {
+      "course": "CHC3150",
+      "id": "CHC3150",
+      "category": "DC",
+      "course_name": "Process Dynamics and Control",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 31
+    },
+    {
+      "course": "COC3120",
+      "id": "COC3120",
+      "category": "DC",
+      "course_name": "Database Management System",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 57
+    },
+    {
+      "course": "EEC3320",
+      "id": "EEC3320",
+      "category": "DC",
+      "course_name": "Electrical Power Gen. & Utilization",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 69
+    },
+    {
+      "course": "ELC3430",
+      "id": "ELC3430",
+      "category": "DC",
+      "course_name": "Digital Signal Processing",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 73
+    },
+    {
+      "course": "FTC3040",
+      "id": "FTC3040",
+      "category": "DC",
+      "course_name": "Fruits and Vegetable Processing Technology",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 10
+    },
+    {
+      "course": "MEC3230",
+      "id": "MEC3230",
+      "category": "DC",
+      "course_name": "Energy Conversion System",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 55
+    },
+    {
+      "course": "PKC3080",
+      "id": "PKC3080",
+      "category": "DC",
+      "course_name": "Natural Gas Processing",
+      "date": "19-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 11
+    },
+    {
+      "course": "AEC3340",
+      "id": "AEC3340",
+      "category": "DC",
+      "course_name": "Automotive Hydraulic Pneumatic Systems",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 19
+    },
+    {
+      "course": "AIC3130",
+      "id": "AIC3130",
+      "category": "DC",
+      "course_name": "Computer Networks",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 27
+    },
+    {
+      "course": "ARC3660",
+      "id": "ARC3660",
+      "category": "DC",
+      "course_name": "Architectural Design - V",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 22
+    },
+    {
+      "course": "CEC3190",
+      "id": "CEC3190",
+      "category": "DC",
+      "course_name": "Engineering Hydraulics-II",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 72
+    },
+    {
+      "course": "CHC3160",
+      "id": "CHC3160",
+      "category": "DC",
+      "course_name": "Energy Engineering and Management",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 26
+    },
+    {
+      "course": "COC3130",
+      "id": "COC3130",
+      "category": "DC",
+      "course_name": "Computer Networks",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 57
+    },
+    {
+      "course": "EEC3410",
+      "id": "EEC3410",
+      "category": "DC",
+      "course_name": "Dynamic System Analysis",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 71
+    },
+    {
+      "course": "ELC3620",
+      "id": "ELC3620",
+      "category": "DC",
+      "course_name": "Digital System Design",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 72
+    },
+    {
+      "course": "FTC3050",
+      "id": "FTC3050",
+      "category": "DC",
+      "course_name": "Meat, and Marine Product Technology",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 9
+    },
+    {
+      "course": "MEC3320",
+      "id": "MEC3320",
+      "category": "DC",
+      "course_name": "Fluid Machinery",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 56
+    },
+    {
+      "course": "PKE3510",
+      "id": "PKE3510",
+      "category": "DE",
+      "course_name": "Heterogeneous Reaction Engineering",
+      "date": "20-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 10
+    },
+    {
+      "course": "CEA3180",
+      "id": "CEA3180",
+      "category": "ESA",
+      "course_name": "Structural Design-II",
+      "date": "21-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 22
+    },
+    {
+      "course": "CEC3200",
+      "id": "CEC3200",
+      "category": "DC",
+      "course_name": "Structural Analysis-II",
+      "date": "21-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 66
+    },
+    {
+      "course": "CHC3170",
+      "id": "CHC3170",
+      "category": "DC",
+      "course_name": "Chemical Reaction Engineering -II",
+      "date": "21-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 24
+    },
+    {
+      "course": "EEC3710",
+      "id": "EEC3710",
+      "category": "DC",
+      "course_name": "Microcontroller Systems and Appl.",
+      "date": "21-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 69
+    },
+    {
+      "course": "FTC3060",
+      "id": "FTC3060",
+      "category": "DC",
+      "course_name": "Food Packaging and Transportation Technology",
+      "date": "21-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 9
+    },
+    {
+      "course": "CEE4510",
+      "id": "CEE4510",
+      "category": "DE",
+      "course_name": "Concrete Technology",
+      "date": "22-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 38
+    },
+    {
+      "course": "CHC3180",
+      "id": "CHC3180",
+      "category": "DC",
+      "course_name": "Transport Phenomena",
+      "date": "22-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 26
+    },
+    {
+      "course": "EZH3010",
+      "id": "EZH3010",
+      "category": "HM",
+      "course_name": "Fundamentals of Entrepreneurship",
+      "date": "22-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 52
+    },
+    {
+      "course": "EZH3020",
+      "id": "EZH3020",
+      "category": "HM",
+      "course_name": "Intellectual Property Rights for Engineers",
+      "date": "22-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 66
+    },
+    {
+      "course": "EZH3030",
+      "id": "EZH3030",
+      "category": "HM",
+      "course_name": "Patent law for Engineers",
+      "date": "22-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 60
+    },
+    {
+      "course": "FTC3070",
+      "id": "FTC3070",
+      "category": "DC",
+      "course_name": "Food Plant Design",
+      "date": "22-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 9
+    },
+    {
+      "course": "PKC3040",
+      "id": "PKC3040",
+      "category": "DC",
+      "course_name": "Transport Phenomena",
+      "date": "22-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 14
+    },
+    {
+      "course": "CEE4530",
+      "id": "CEE4530",
+      "category": "DE",
+      "course_name": "Traffic Engineering",
+      "date": "23-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 23
+    },
+    {
+      "course": "FTC3080",
+      "id": "FTC3080",
+      "category": "DC",
+      "course_name": "Food Process Equipment Design",
+      "date": "23-02-25",
+      "time": "9:45AM-10:45AM",
+      "student_count": 9
+    },
+    {
+      "course": "EEE4720",
+      "id": "EEE4720",
+      "category": "DE",
+      "course_name": "Machine Learning",
+      "date": "17-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 28
+    },
+    {
+      "course": "ARH4200",
+      "id": "ARH4200",
+      "category": "HM",
+      "course_name": "Building Construction Management & Economics",
+      "date": "19-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 21
+    },
+    {
+      "course": "CHE4610",
+      "id": "CHE4610",
+      "category": "DE",
+      "course_name": "Colloidal and Surface Science",
+      "date": "19-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 9
+    },
+    {
+      "course": "CHE4710",
+      "id": "CHE4710",
+      "category": "DE",
+      "course_name": "CAD of Process Equipments",
+      "date": "19-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 18
+    },
+    {
+      "course": "EEE4520",
+      "id": "EEE4520",
+      "category": "DE",
+      "course_name": "Process Instrumentation & Control",
+      "date": "19-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 48
+    },
+    {
+      "course": "AIE4260",
+      "id": "AIE4260",
+      "category": "DE",
+      "course_name": "Computational Intelligence",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 29
+    },
+    {
+      "course": "ARC4180",
+      "id": "ARC4180",
+      "category": "DC",
+      "course_name": "Urban Design",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 22
+    },
+    {
+      "course": "CEE4570",
+      "id": "CEE4570",
+      "category": "DE",
+      "course_name": "Rock Engineering",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 37
+    },
+    {
+      "course": "CEE4630",
+      "id": "CEE4630",
+      "category": "DE",
+      "course_name": "Bridge Engineering",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 20
+    },
+    {
+      "course": "CHC4230",
+      "id": "CHC4230",
+      "category": "DC",
+      "course_name": "Process Safety and Risk Analysis",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 28
+    },
+    {
+      "course": "COE4380",
+      "id": "COE4380",
+      "category": "DE",
+      "course_name": "Selected Topics in Computer Applications",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 46
+    },
+    {
+      "course": "EEE4120",
+      "id": "EEE4120",
+      "category": "DE",
+      "course_name": "Electric Vehicles & Traction",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 66
+    },
+    {
+      "course": "ELE4110",
+      "id": "ELE4110",
+      "category": "DE",
+      "course_name": "RF System Design",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 55
+    },
+    {
+      "course": "FTC4050",
+      "id": "FTC4050",
+      "category": "DC",
+      "course_name": "Food Industry Waste Management",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 13
+    },
+    {
+      "course": "MEE4110",
+      "id": "MEE4110",
+      "category": "DE",
+      "course_name": "Fracture Mechanics",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 15
+    },
+    {
+      "course": "MEE4250",
+      "id": "MEE4250",
+      "category": "DE",
+      "course_name": "Energy Audit Conservation & Management",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 45
+    },
+    {
+      "course": "MEE4280",
+      "id": "MEE4280",
+      "category": "DE",
+      "course_name": "Nano Fluid & its Application",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 15
+    },
+    {
+      "course": "PKC4020",
+      "id": "PKC4020",
+      "category": "DC",
+      "course_name": "Process Utilities and Energy Management",
+      "date": "20-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 17
+    },
+    {
+      "course": "AIE4570",
+      "id": "AIE4570",
+      "category": "DE",
+      "course_name": "Internet of Things",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 29
+    },
+    {
+      "course": "ARC4680",
+      "id": "ARC4680",
+      "category": "DC",
+      "course_name": "Architectural Design - VII",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 22
+    },
+    {
+      "course": "CEE4660",
+      "id": "CEE4660",
+      "category": "DE",
+      "course_name": "Pre-Stressed Concrete",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 19
+    },
+    {
+      "course": "COE4520",
+      "id": "COE4520",
+      "category": "DE",
+      "course_name": "Mobile Computing",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 62
+    },
+    {
+      "course": "EEE4320",
+      "id": "EEE4320",
+      "category": "DE",
+      "course_name": "Power Quality",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 59
+    },
+    {
+      "course": "ELE4120",
+      "id": "ELE4120",
+      "category": "DE",
+      "course_name": "Semiconductor Device Modelling",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 58
+    },
+    {
+      "course": "CEE4730",
+      "id": "CEE4730",
+      "category": "DE",
+      "course_name": "Elements of Earthquake & Wind Engineering",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 38
+    },
+    {
+      "course": "CHC4240",
+      "id": "CHC4240",
+      "category": "DC",
+      "course_name": "Modeling,Simulation and Optimization",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 27
+    },
+    {
+      "course": "ARO4280",
+      "id": "ARO4280",
+      "category": "OE",
+      "course_name": "Urban and Regional Planning",
+      "date": "23-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 59
+    },
+    {
+      "course": "CEO4720",
+      "id": "CEO4720",
+      "category": "OE",
+      "course_name": "Advanced Environmental Engineering",
+      "date": "23-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 39
+    },
+    {
+      "course": "MEE4120",
+      "id": "MEE4120",
+      "category": "DE",
+      "course_name": "Introduction to FEM",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 27
+    },
+    {
+      "course": "MEE4510",
+      "id": "MEE4510",
+      "category": "DE",
+      "course_name": "Fundamental of Robotics",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 48
+    },
+    {
+      "course": "PKE4510",
+      "id": "PKE4510",
+      "category": "DE",
+      "course_name": "Process Instrumentation",
+      "date": "21-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 17
+    },
+    {
+      "course": "CEO4740",
+      "id": "CEO4740",
+      "category": "OE",
+      "course_name": "Water Resources & Watershed Management",
+      "date": "23-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 9
+    },
+    {
+      "course": "CHE4560",
+      "id": "CHE4560",
+      "category": "DE",
+      "course_name": "Industrial Pollution Control",
+      "date": "22-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 28
+    },
+    {
+      "course": "COO4470",
+      "id": "COO4470",
+      "category": "OE",
+      "course_name": "Selected Topics in Computer Engineering II",
+      "date": "23-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 39
+    },
+    {
+      "course": "COE4590",
+      "id": "COE4590",
+      "category": "DE",
+      "course_name": "Distributed and Parallel Systems",
+      "date": "22-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 70
+    },
+    {
+      "course": "EEE4350",
+      "id": "EEE4350",
+      "category": "DE",
+      "course_name": "HVDC and FACTS Technology",
+      "date": "22-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 63
+    },
+    {
+      "course": "ELE4410",
+      "id": "ELE4410",
+      "category": "DE",
+      "course_name": "Multimedia Systems & Networks",
+      "date": "22-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 51
+    },
+    {
+      "course": "MEE4211",
+      "id": "MEE4211",
+      "category": "DE",
+      "course_name": "Introduction to Combustion",
+      "date": "22-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 50
+    },
+    {
+      "course": "MEE4520",
+      "id": "MEE4520",
+      "category": "DE",
+      "course_name": "Introduction to Microfluidics",
+      "date": "22-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 23
+    },
+    {
+      "course": "PKE4540",
+      "id": "PKE4540",
+      "category": "DE",
+      "course_name": "Fertilizer Technology",
+      "date": "22-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 17
+    },
+    {
+      "course": "EEO4210",
+      "id": "EEO4210",
+      "category": "OE",
+      "course_name": "Renewable Energy Sources",
+      "date": "23-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 61
+    },
+    {
+      "course": "ACO3080",
+      "id": "ACO3080",
+      "category": "OE",
+      "course_name": "Atmospheric Chemistry",
+      "date": "23-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 60
+    },
+    {
+      "course": "AMO4430",
+      "id": "AMO4430",
+      "category": "OE",
+      "course_name": "Advanced Numerical Methods",
+      "date": "23-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 39
+    },
+    {
+      "course": "APO3040",
+      "id": "APO3040",
+      "category": "OE",
+      "course_name": "Biophysics",
+      "date": "23-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 60
+    },
+    {
+      "course": "MEO4220",
+      "id": "MEO4220",
+      "category": "OE",
+      "course_name": "Non Conventional Energy",
+      "date": "23-02-25",
+      "time": "12:15PM-1:15PM",
+      "student_count": 55
+    },
+    {
+      "course": "COE4420",
+      "id": "COE4420",
+      "category": "DE",
+      "course_name": "VLSI Design Tool Techniques",
+      "date": "18-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 9
+    },
+    {
+      "course": "MEH2450",
+      "id": "MEH2450",
+      "category": "HM",
+      "course_name": "Engineering Economy & Management",
+      "date": "18-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 12
+    },
+    {
+      "course": "MEH2452",
+      "id": "MEH2452",
+      "category": "HM",
+      "course_name": "Engineering Economy & Management",
+      "date": "18-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 68
+    },
+    {
+      "course": "MEH3450",
+      "id": "MEH3450",
+      "category": "HM",
+      "course_name": "Engineering Economy & Management",
+      "date": "18-02-25",
+      "time": "1:30PM-2:30PM",
+      "student_count": 123
+    }
+  ]
+}
